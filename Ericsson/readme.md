@@ -1,4 +1,4 @@
-## Ericsson Failure-to-Deliver (FTD) Complete Analysis (Markdown Version)
+## Ericsson Failure-to-Deliver (FTD) Complete Analysis
 
 ***
 
